@@ -1,4 +1,4 @@
-#' @Calculation of parameters from RLC process_psi (https://github.com/bmjesus/psifluo/blob/master/R/process_psi.R)
+#' @Calculation of parameters from RLC process_psi (https://github.com/bmjesus/psifluo/blob/master/R/process_psi.R) Bruno Jesus Univ Nantes
 #' @rETR, NPQ, YNPQ, Eff, Qp, SigmaPSII, Fv', Fv/Fm, Tau, Ctau1
 #' @title function to fit several PI models
 #' @description  Preview of RLC curves and associated parameters
